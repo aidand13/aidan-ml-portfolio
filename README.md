@@ -18,7 +18,7 @@ Each project is designed to highlight both practical implementation and theoreti
 
 - Python 3.x
 - `scikit-learn`, `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy`
-- `tensorflow`, `torch` (for deep learning projects)
+- `torch` (for deep learning projects)
 - `Jupyter` or `.py` scripts for full reproducibility
 
 ---
